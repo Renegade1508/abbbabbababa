@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>For Jigyasa ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="overlay">
+  <h1 id="message">Hey Jigyasa ❤️</h1>
+  <button id="startBtn">Start</button>
+  <button id="btn" style="display:none;">Click me ❤️</button>
+</div>
+
+<audio id="music" src="music.mp3" loop></audio>
+
+<script type="module" src="main.js"></script>
+</body>
+</html>
